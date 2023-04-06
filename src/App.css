@@ -2,6 +2,27 @@
   text-align: center;
 }
 
+body {
+}
+
+.texto {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 8px;
+  background-color: #18cce4;
+  color: black;
+}
+
+p.contadores {
+  border: 2px solid rgb(35, 36, 36);
+  border-radius: 12px;
+  width: 15%;
+  padding: 5px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
